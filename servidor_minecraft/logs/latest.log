@@ -1,10 +1,10 @@
-[01:19:04] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[01:19:04] [main/WARN]: Mod resolution failed
-[01:19:04] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE journeymap 5.10.3 {depends fabric @ [*]}, ROOT_FORCELOAD_SINGLE journeymap 5.10.3]
-[01:19:04] [main/INFO]: Reason: [HARD_DEP journeymap 5.10.3 {depends fabric @ [*]}, HARD_DEP journeymap-api-fabric 1.20-1.9-fabric-SNAPSHOT {depends fabric @ [*]}]
-[01:19:04] [main/INFO]: SERVER environment disabled: [fabric-key-binding-api-v1]
-[01:19:04] [main/INFO]: Fix: add [add:fabric 1 ([(-∞,∞)])], remove [], replace []
-[01:19:04] [main/ERROR]: Incompatible mods found!
+[01:19:54] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[01:19:54] [main/WARN]: Mod resolution failed
+[01:19:54] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE journeymap 5.10.3 {depends fabric @ [*]}, ROOT_FORCELOAD_SINGLE journeymap 5.10.3]
+[01:19:54] [main/INFO]: Reason: [HARD_DEP journeymap 5.10.3 {depends fabric @ [*]}, HARD_DEP journeymap-api-fabric 1.20-1.9-fabric-SNAPSHOT {depends fabric @ [*]}]
+[01:19:54] [main/INFO]: SERVER environment disabled: [fabric-key-binding-api-v1]
+[01:19:54] [main/INFO]: Fix: add [add:fabric 1 ([(-∞,∞)])], remove [], replace []
+[01:19:54] [main/ERROR]: Incompatible mods found!
 net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
 A potential solution has been determined, this may resolve your problem:
 	 - Install fabric, any version.
